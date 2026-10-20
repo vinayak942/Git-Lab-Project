@@ -1,7 +1,7 @@
 # Git Lab Project
 
 ## Objective
-A simple calculator program to practice Git and GitHub.
+This project is a calculator with four operations.
 
 ## How to run
 python3 -B main.py
